@@ -7,7 +7,7 @@ export default function App() {
     <div className='p-\[15px\] shadow-xl'>
         <div className = 'max-w-\[1200px\] max-auto border-amber-600'>
             <div className='w-\[100px\] border-red-600'>
-              <img src ="logo.png" className='w-full' alt="apna coll "/>
+              <img src ="/apna-college-icon.png" className='32 h-auto' alt="apna college "/>
             </div>
         </div>
     </div>
